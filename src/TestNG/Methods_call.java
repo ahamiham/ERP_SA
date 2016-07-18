@@ -38,7 +38,5 @@ public class Methods_call extends Base
 		{
 			System.out.println("Supplier Creation Failed");
 		}
-		//hello github
 	}
-	
 }
